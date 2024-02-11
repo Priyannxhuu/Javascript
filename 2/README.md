@@ -1,5 +1,3 @@
-# Watch The Video
-
-[Watch The Video](video.mp4)
+![Watch The Video](video.gif)
 
 Have fun !!

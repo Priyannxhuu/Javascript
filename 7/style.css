@@ -14,8 +14,7 @@ body{
     margin-top: 300px;
     width: 400px;
     padding: 21px;
-    box-shadow: 1px 1px 7px rgba(34, 255, 34, 0.467);
-    border-radius: 16px;
+    background: #2d2d2d;
 }
 .main{
     display: flex;

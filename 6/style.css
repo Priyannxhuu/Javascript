@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 21px;
+    padding: 21px;
+    box-shadow: 1px 1px 7px #45B69C;
+}
+h2{
+    color: white;
+}
+#randomnumber{
+    color: white;
+    font-size: 51px;
+}
+button{
+    background: #45B69C;
+    padding: 11px;
+    border: none;
+    border-radius: 7px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+button:hover{
+    background: #2a7060;
+}
